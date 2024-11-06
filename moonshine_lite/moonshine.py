@@ -39,8 +39,6 @@ logger = logging.getLogger(__name__)
 
 DEFAULT_ACTIVATION_KEY = keyboard.Key.cmd  # Default to Command/Windows key
 
-# Add near the top of the file, after other imports
-import logging
 
 logging.basicConfig(
     level=logging.WARNING,  # Default to WARNING level

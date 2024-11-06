@@ -50,10 +50,9 @@ requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-py-modules = ["moonshine_lite"]
+packages = ["moonshine_lite"]
 
 [tool.setuptools.package-data]
-
 "moonshine_lite.data" = ["tokenizer.json"]
 
 [tool.mypy]
