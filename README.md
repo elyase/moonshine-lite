@@ -1,9 +1,5 @@
 # 🎙️ Moonshine Lite
 
-[![Release](https://img.shields.io/github/v/release/elyase/moonshine-lite)](https://img.shields.io/github/v/release/elyase/moonshine-lite)
-[![Build status](https://img.shields.io/github/actions/workflow/status/elyase/moonshine-lite/main.yml?branch=main)](https://github.com/elyase/moonshine-lite/actions/workflows/main.yml?query=branch%3Amain)
-[![License](https://img.shields.io/github/license/elyase/moonshine-lite)](https://img.shields.io/github/license/elyase/moonshine-lite)
-
 > 🚀 A lightweight Python wrapper for the [moonshine](https://github.com/usefulsensors/moonshine/) speech-to-text models with real-time transcription capabilities
 
 ## ✨ Features
